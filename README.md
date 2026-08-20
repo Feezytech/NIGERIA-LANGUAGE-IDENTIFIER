@@ -1,20 +1,21 @@
 The Nigeria Language identifier project is my 3MTT Capestone project in NextGen AI & Machine Learning programme. it involves cleaning a dataset and training a model that identify 4 Nigeria languages ( English, Hausa, Igbo and Yoruba) .In this project, i pulled data from AfroFinChain Multilingual and Bible verses.
 
 **Objectives**
-Detect Nigerian languages from short text
-Build a text classification model
-Evaluate model performance
-Develop a simple interface for testing new sentences
+Detect Nigerian languages from short text,
+Build a text classification model,
+Evaluate model performance,
+Develop a simple interface for testing new sentences.
 
 **Methodology**
-Data Collection
-Data Cleaning
-Exploratory Data Analysis
-Train/Test Split
-TF-IDF Vectorization
-Multinomial Naive Bayes
-Prediction
-Evaluation
+Data Collection,
+Data Cleaning,
+Exploratory Data Analysis.
+Train/Test Split,
+TF-IDF Vectorization,
+Multinomial Naive Bayes,
+Prediction,
+Evaluation.
+
 
 Using Scikit-Learn, i transformed the raw text into numerical feature matrix and trained a Multinomial Naive bayes probability model to classify input language with more than 99% accuracy
 
